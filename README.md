@@ -1,4 +1,4 @@
-# spring-security-jwt-demo
+# jwt-teste
 Teste simples da integração JWT com Spring Security. 
 
 Como buildar o projeto:
